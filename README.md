@@ -11,7 +11,8 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadHasan&show_icons=true&locale=en&layout=compact&theme=react" alt="MuhammadSaadHasan" height="192px"/>
 	  <a></a>
 	  
-    <img src="https://streak-stats.demolab.com/?user=MuhammadSaadHasan&theme=react" alt="MuhammadSaadHasan" height="192px"/>
+	<a href="https://github.com/MuhammadSaadHasan/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=HxnDev&show_icons=true&count_private=true&theme=react" height="192px"/></a>
+
 </p>
   <h2 align="center">Skills :
 
@@ -22,6 +23,8 @@
 <img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="center" alt="SQL" width="40px" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg"/>
+<img align="center" alt="OpwnCV" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
+	
 
 	
   
