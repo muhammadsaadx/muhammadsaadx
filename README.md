@@ -1,15 +1,18 @@
 <h1 align = "center">Hi! I'm Muhammad Saad Hasan :wave: <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=18EBF7&width=435&lines=Computer+Science+Student;Problem+Solver;Passionate+about+Physics;Always%20Learning&center=true&width=500&height=50"> <h4 align="center">I am a 2nd Year CS Student in FAST-NUCES Islamabad, Pakistan. I'm very passionate about learning new things and solving real world problems. I'm always ready to take up a challenge and trying to find new ways to tackle it. I'm also very passionate about Physics and how it can go hand in hand with Computer Science to help the world. I love to socialize and meet new people to exchange thoughts and ideas to expand my knowledge as much as i can.</h4> <br>
   
  
-  ## <h2 align="center">Stats:
+  <h2 align="center">Stats:
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaadHasan&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
-<br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadHasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="MuhammadSaadHasan" height="192px"/>
-	  <a></a>
-    <img src="https://streak-stats.demolab.com/?user=MuhammadSaadHasan&theme=github-dark-blue" alt="MuhammadSaadHasan" height="192px"/>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadHasan&theme=react" alt="MuhammadSaadHasan"  /></p>
 
-  ## <h2 align="center"> Skills :
+<br/>
+  &nbsp;
+  <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadHasan&show_icons=true&locale=en&layout=compact&theme=react" alt="MuhammadSaadHasan" height="192px"/>
+	  <a></a>
+    <img src="https://streak-stats.demolab.com/?user=MuhammadSaadHasan&theme=react" alt="MuhammadSaadHasan" height="192px"/>
+</p>
+  <h2 align="center">Skills :
 
 <h4 align="center">
 
