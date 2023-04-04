@@ -11,7 +11,10 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadHasan&show_icons=true&locale=en&layout=compact&theme=react" alt="MuhammadSaadHasan" height="192px"/>
 	  <a></a>
 	  
-	<a href="https://github.com/MuhammadSaadHasan/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=HxnDev&show_icons=true&count_private=true&theme=react" height="192px"/></a>
+	   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="MuhammadSaadHasan" height="192px"/>
+	  <a></a>
+	  
+
 
 </p>
   <h2 align="center">Skills :
