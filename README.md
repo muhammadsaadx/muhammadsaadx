@@ -8,7 +8,7 @@
 <br/>
   &nbsp;
   <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadHasan&show_icons=true&locale=en&layout=compact&theme=react" alt="MuhammadSaadHasan" height="192px"/>
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadHasan&langs_count=8&theme=dark&layout=compact" alt="Top Langs"/>
 	  <a></a>
 </p>
   <h2 align="center">Skills :
