@@ -8,7 +8,7 @@
 <br/>
   &nbsp;
   <p align="center">
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadHasan&langs_count=8&theme=dark&layout=compact" alt="MANY LANGUAGES LOL"/>
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulDD&langs_count=8&theme=dark&layout=compact" alt="MANY LANGUAGES LOL"/>
 	  <a></a>
 </p>
   <h2 align="center">Skills :
