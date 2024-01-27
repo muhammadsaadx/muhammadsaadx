@@ -10,13 +10,18 @@
   I'm passionate about learning new things, solving real-world problems, and exploring the intersection of Physics and Computer Science. I enjoy socializing and meeting new people to expand my knowledge and ideas.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadHasan&theme=react" alt="Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadHasan&hide=java,html,tex&theme=react" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaadHasan&show_icons=true&theme=react" alt="GitHub Stats" />
+
+## <h2 align="center">Stats :
+  <p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaadHasan&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
+<br/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadHasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="MuhammadSaadHasan" height="192px"/>
+    <img src="https://streak-stats.demolab.com/?user=MuhammadSaadHasan&theme=github-dark-blue" alt="MuhammadSaadHasan" height="192px"/>
+
+
+
+  
 </p>
 
 <h2 align="center">Skills:</h2>
