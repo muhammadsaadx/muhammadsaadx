@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>I am a 3rd Year CS Student at FAST-NUCES Islamabad, Pakistan.</strong><br>
-  I'm passionate about learning new things, solving real-world problems, and exploring the intersection of Physics and Computer Science. I enjoy socializing and meeting new people to expand my knowledge and ideas.
+  <strong>I'm a senior at FAST-NUCES majoring in Computer Science. I'm passionate about learning new things and solving real-world problems, especially where Physics and Computer Science meet. I'm particularly interested in Artificial Intelligence and Machine Learning and how they can be used to create innovative solutions that make a difference.
 </p>
 
 
