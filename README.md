@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>I'm a senior at FAST-NUCES majoring in Computer Science. I'm passionate about learning new things and solving real-world problems, especially where Physics and Computer Science meet. I'm particularly interested in Artificial Intelligence and Machine Learning and how they can be used to create innovative solutions that make a difference.
+  <strong>I'm a senior at FAST-NUCES majoring in Computer Science. I'm passionate about learning new things and solving real-world problems. I'm particularly interested in Artificial Intelligence and Machine Learning and how they can be used to create innovative solutions that make a difference.
 </p>
 
 
