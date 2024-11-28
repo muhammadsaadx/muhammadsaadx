@@ -40,8 +40,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-saad-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-saad-hasan" height="30" width="40" /></a>
   <a href="https://github.com/MuhammadSaadHasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MuhammadSaadHasan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/muhammadsaadhsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsaadhsn" height="30" width="40" /></a>
-  <a href="https://twitter.com/muhammadsaadhsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadsaadhsn" height="30" width="40" /></a>
 </p>
 
 <p align="center">
